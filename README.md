@@ -105,7 +105,3 @@ Through this project, I gained experience in:
 - Backend integration
 - User profile management
 
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
